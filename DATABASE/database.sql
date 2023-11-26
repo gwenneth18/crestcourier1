@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.11
--- https://www.phpmyadmin.net/
+-- version 5.2.0
+-- https://mi-linux.wlv.ac.uk/phpmyadmin
 --
--- Host: localhost:3306
--- Generation Time: Apr 16, 2023 at 04:52 PM
--- Server version: 10.2.44-MariaDB
--- PHP Version: 7.4.33
+-- Host: 2102091@localhost
+-- Generation Time: Jan 19, 2022 at 08:49 PM
+-- Server version: 5.7.37-0ubuntu0.18.04.1 -(Ubuntu)
+-- PHP Version: 8.1.3
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `fxpromin_crestdb`
+-- Database: `db2102091`
 --
 
 -- --------------------------------------------------------

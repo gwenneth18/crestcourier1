@@ -1,9 +1,9 @@
 <?php
 
 @define('DB_SERVER', 'localhost');
-@define('DB_USERNAME', 'karamelh_crestuser');
-@define('DB_PASSWORD', '(G#_}_89nYpM');
-@define('DB_NAME', 'karamelh_crestdb');
+@define('DB_USERNAME', '2102091');
+@define('DB_PASSWORD', '91n08m');
+@define('DB_NAME', 'db2102091');
 
  
 /* Attempt to connect to MySQL database */
